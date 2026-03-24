@@ -9,7 +9,7 @@
 
 <h1>Sobre Moi! 🚀</h1>
 
-- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas (CEUB)
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas (CEUB)
 - 🤖 Atualmente cursando Técnico em Inteligência Artificial (SENAC)
 - 💻 Apaixonada por tecnologia, desenvolvimento e dados
 - 🌐 Experiência com desenvolvimento web e banco de dados
